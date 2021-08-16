@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+
+.title-kartini {
+  font-weight: 900;
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn-kartini {
+  background-color: #f06292;
+  outline: none !important;
+  font-weight: 600;
+  padding: 15px 30px;
+  border-radius: 15px !important;
+}
+
+.btn-kartini:hover {
+  background-color: #f74b84;
+}
+
+.kolom-satu {
+  padding-top: 15%;
+}
