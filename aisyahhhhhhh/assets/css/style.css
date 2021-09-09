@@ -9,10 +9,34 @@
   margin-top: 50%;
   font-family: "Roboto", sans-serif;
   color: #e6eaf1d7;
-  font-size: 30px;
+  font-weight: 800;
+  font-size: 35px;
 }
 
 .hero__description {
   color: #e6eaf1;
   font-size: 20px;
+}
+
+.hero__span-paragraph {
+  color: #ff9100;
+  font-weight: bold;
+}
+
+.btn-orange {
+  background-color: #ff9100;
+  border: 2px solid #ff9100;
+  padding: 10px 50px;
+  border-radius: 18px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.btn-orange:hover {
+  background-color: #af6504;
+}
+
+.img__aisyahhh {
+  width: 200px;
+  margin-top: 50%;
 }
